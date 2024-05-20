@@ -1,5 +1,5 @@
 OVERVIEW:
-This project proposes a mobile application for Android Auto  designed to streamlining emergency response by alerting drivers 300 meters ahead of an approaching emergency vehicle. Traditional emergency vehicle sirens can be obstructed by traffic noise or limited visibility, leading to delays in driver reaction and hindering smooth passage. To address this issue, this App leverages real-time location sharing using socket.io, predictive path analysis, and targeted alerts to notify drivers in advance about  the presence of emergency vehicle
+This project proposes a mobile application (now only for WEBSITE) for Android Auto  designed to streamlining emergency response by alerting drivers 300 meters ahead of an approaching emergency vehicle. Traditional emergency vehicle sirens can be obstructed by traffic noise or limited visibility, leading to delays in driver reaction and hindering smooth passage. To address this issue, this App leverages real-time location sharing using socket.io, predictive path analysis, and targeted alerts to notify drivers in advance about  the presence of emergency vehicle
 
 WORKING DEMO:
 https://kaviraj008.github.io/Leave-Way-Demo/
