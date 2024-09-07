@@ -24,9 +24,9 @@ ADVANTAGES OF OUR APP:
 4, Non-intrusive Alerts: The app prioritizes clear but non-distracting alerts to minimize driver distraction compared to loud sirens.
 
 CONTRIBUTORS :
-1, KAVI RAJ - BACKEND https://github.com/KaviRaj008/
-2, JOHIN GILL - FRONTEND https://github.com/jooxlearner
-3, PRATHIPA - FRONTEND 
+1, KAVI RAJ - FRONTEND and BACKEND https://github.com/KaviRaj008/
+
+
 
 NOTE: contribution from others are welcome  
 
